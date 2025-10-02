@@ -7,7 +7,7 @@
 - [x] Discrete Math & Logic  
 
 ## 2. Core Python Libraries  
-- [ ] NumPy  
+- [x] NumPy  
 - [ ] Pandas  
 - [ ] Matplotlib  
 
