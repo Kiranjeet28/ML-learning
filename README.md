@@ -9,7 +9,7 @@
 ## 2. Core Python Libraries  
 - [x] NumPy  
 - [x] Pandas  
-- [ ] Matplotlib  
+- [x] Matplotlib  
 
 ## 3. Machine Learning Basics  
 - [ ] Train-test split  
