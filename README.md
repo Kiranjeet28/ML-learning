@@ -8,7 +8,7 @@
 
 ## 2. Core Python Libraries  
 - [x] NumPy  
-- [ ] Pandas  
+- [x] Pandas  
 - [ ] Matplotlib  
 
 ## 3. Machine Learning Basics  

@@ -1,0 +1,11 @@
+Hotel Name,Location,Rating,Price per Night,Available Rooms
+Grand Palace,New York,4.5,200,15
+Sea View Resort,Miami,4.2,150,10
+Mountain Inn,Denver,4.0,120,8
+City Lights Hotel,Los Angeles,4.3,180,12
+Royal Heritage,Chicago,4.6,220,5
+Sunset Lodge,San Francisco,4.1,160,9
+Green Valley Hotel,Austin,3.9,110,20
+Blue Lagoon Resort,Orlando,4.4,170,7
+Urban Stay,Boston,4.0,130,14
+Golden Sands,Las Vegas,4.7,250,6

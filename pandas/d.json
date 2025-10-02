@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Grand Palace Hotel",
+        "location": "New York",
+        "rating": 4.5,
+        "rooms_available": 120,
+        "amenities": ["wifi", "pool", "gym", "restaurant"]
+    },
+    {
+        "id": 2,
+        "name": "Sea View Resort",
+        "location": "Miami",
+        "rating": 4.2,
+        "rooms_available": 80,
+        "amenities": ["wifi", "beach access", "spa", "bar"]
+    },
+    {
+        "id": 3,
+        "name": "Mountain Retreat",
+        "location": "Denver",
+        "rating": 2.5,
+        "rooms_available": null,
+        "amenities": ["wifi", "hiking trails", "restaurant", "pet friendly"]
+    },
+    {
+        "id": 4,
+        "name": "City Center Inn",
+        "location": "Chicago",
+        "rating": 4.0,
+        "rooms_available": 100,
+        "amenities": ["wifi", "parking", "gym", "conference room"]
+    }
+]

@@ -1,0 +1,5 @@
+,id,name,location,rating,rooms_available,amenities
+0,1,Grand Palace Hotel,New York,4.5,120,"['wifi', 'pool', 'gym', 'restaurant']"
+1,2,Sea View Resort,Miami,4.2,80,"['wifi', 'beach access', 'spa', 'bar']"
+2,3,Mountain Retreat,Denver,4.7,60,"['wifi', 'hiking trails', 'restaurant', 'pet friendly']"
+3,4,City Center Inn,Chicago,4.0,100,"['wifi', 'parking', 'gym', 'conference room']"
