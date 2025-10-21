@@ -12,20 +12,20 @@
 - [x] Matplotlib  
 
 ## 3. Machine Learning Basics  
-- [ ] Train-test split  
-- [ ] Loss functions  
-- [ ] Gradient Descent  
-- [ ] Linear Regression  
-- [ ] Logistic Regression  
-- [ ] Classification vs Regression  
+- [x] Train-test split  
+- [x] Loss functions  
+- [x] Gradient Descent  
+- [x] Linear Regression  
+- [x] Logistic Regression  
+- [x] Classification vs Regression  
 
 ## 4. Core ML Algorithms  
-- [ ] k-Nearest Neighbors (KNN)  
-- [ ] Decision Trees  
-- [ ] Random Forests  
-- [ ] Support Vector Machines (SVM)  
+- [x] k-Nearest Neighbors (KNN)  
+- [x] Decision Trees  
+- [x] Random Forests  
+- [x] Support Vector Machines (SVM)  
 - [ ] Naive Bayes  
-- [ ] k-Means Clustering  
+- [x] k-Means Clustering  
 
 ## 5. Deep Learning (Intro)  
 - [ ] Neural Networks basics  
